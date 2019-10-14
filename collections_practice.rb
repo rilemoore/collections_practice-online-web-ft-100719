@@ -32,3 +32,4 @@ def reverse_array(array)
   end
   return reversed_array
 end
+end
