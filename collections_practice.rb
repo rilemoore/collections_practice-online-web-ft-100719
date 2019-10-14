@@ -67,6 +67,15 @@ def sum_array(array)
   sum
 end
 
+def add_s(array)
+  i = 0
+  while(i < array.length)
+    if(i != 1)
+      array[i] << "s"
+    end
+  end
+end
+
 
 
 
