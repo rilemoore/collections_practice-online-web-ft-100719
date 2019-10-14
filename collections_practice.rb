@@ -21,4 +21,5 @@ def reverse_array(array)
     reversed_array << array[i]
     i -= 1
   end
+return reversed_array
 end
