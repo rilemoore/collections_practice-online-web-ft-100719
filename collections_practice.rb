@@ -11,6 +11,7 @@ def sort_array_desc(array)
     elsif a > b
       -1
     end
+  end
 end
 
 def sort_array_char_count(array)
@@ -31,5 +32,4 @@ def reverse_array(array)
     i -= 1
   end
   return reversed_array
-end
 end
