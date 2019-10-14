@@ -42,3 +42,17 @@ def reverse_array(array)
   end
   return reversed_array
 end
+
+def kesha_maker(array)
+  
+end
+
+
+
+
+
+
+
+
+
+
